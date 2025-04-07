@@ -1,10 +1,19 @@
-body{
-    background-color: #006400;
+body {
+    background-color: darkgreen;
 }
-table{
+table {
     width: 1000px;
-    margin-left: auto;
+    margin-left: auto; 
     margin-right: auto;
-    background-color: #98FB98;
-    
+    background-color: palegreen;
+
+}
+h2{ 
+    color: darkgreen;
+
+}
+img {   
+    display: block;
+    margin: auto;
+    border: 1px solid black;
 }
